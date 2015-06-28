@@ -1,6 +1,6 @@
 {
   "name": "grill",
-  "description": "Grill — Simple gird and chaotic.",
+  "description": "Grill — Simple grid and chaotic.",
   "version": "0.1.0",
   "styles": [
     "grill.css"

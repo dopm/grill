@@ -1,5 +1,5 @@
 # grill
-A [toast](https://github.com/daneden/Toast) [grill](http://dopm.github.io/grill). Simple gird and chaotic.
+A [toast](https://github.com/daneden/Toast) [grill](http://dopm.github.io/grill). Simple grid and chaotic.
 
 ## Installation
 
@@ -31,7 +31,7 @@ then, wrap the container with a `.g` class, :
 ```
 
 ### Namespace
-Gird namespace `g` 
+Grid namespace `g` 
 Columns namespace `c`
 
 ```css
