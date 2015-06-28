@@ -7,7 +7,7 @@ Install with [component](http://component.github.io/) :
 
     $ component install dopm/grill
 
-However, you can just grab the css file from GitHub. There is no dependency.
+However, you can just grab the [css file](http://dopm.github.io/grill/grill.css) from GitHub. There is no dependency.
 
 ## How to bake
 First, link to grill.css in your HTML document's head:
